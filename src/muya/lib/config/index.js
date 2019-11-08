@@ -259,7 +259,7 @@ export const MUYA_DEFAULT_OPTION = {
   // bullet/list marker width + listIndentation, tab or Daring Fireball Markdown (4 spaces) --> list indentation
   listIndentation: 1,
   frontmatterType: '-',
-  sequenceTheme: 'hand', // hand or simple
+  sequenceTheme: 'simple', // hand or simple
   mermaidTheme: 'default', // dark / forest / default
   vegaTheme: 'latimes', // excel / ggplot2 / quartz / vox / fivethirtyeight / dark / latimes
   hideQuickInsertHint: false,
